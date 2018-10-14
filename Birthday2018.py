@@ -11,6 +11,7 @@ window.configure(bg='SteelBlue1')
 pygame.mixer.init()
 
 
+
 #read image
 img1=cv2.imread('image/Family.jpg')
 img2=cv2.imread('image/87.jpg')
